@@ -1,2 +1,3 @@
-# FilteredDataPaths
-Filtered data paths returns an array of paths after applying the predicates to them.
+# Refined Data Paths
+
+Returns an array of paths that have been filtered based on the specified predicates.
