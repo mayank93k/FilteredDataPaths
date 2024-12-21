@@ -1,4 +1,4 @@
-name := "Filter Data Reader"
+name := "Filter Data Paths"
 
 version := "0.1"
 
