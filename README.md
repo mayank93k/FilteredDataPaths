@@ -1,3 +1,3 @@
 # Refined Data Paths
 
-Returns an array of paths that have been filtered based on the specified predicates.
+A utility that returns an array of data paths filtered based on specified predicates. This helps in efficiently selecting relevant data paths for processing by applying custom filters, improving data retrieval and organization.
